@@ -19,8 +19,8 @@ public class EmailService {
 	public void sendEmail(String name, String email) throws Exception {
 
 		// Recipient's email ID needs to be mentioned.
-		String username = "wangyitao19900719@gmail.com";
-		String password = "*520wojia*";
+		String username = "XXXXXXX@XXXX";
+		String password = "XXXXX";
 		
 		String to = email;
 
